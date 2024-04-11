@@ -1,0 +1,22 @@
+.Footer{
+    margin-top: 50px;
+}
+
+.Footer .logo_medium{
+    width: 48px;
+    height: 48px;
+    margin-left: 10px;
+    margin-right: -10px;
+    opacity: 0.5;
+}
+
+.Footer .logo_small{
+    width: 32px;
+    height: 32px;
+    margin-bottom: 6px;
+    margin-left: 10px;
+    opacity: 0.5;
+}
+.logo_medium:hover, .logo_small:hover{
+    opacity: 1;
+}
